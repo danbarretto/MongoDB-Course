@@ -1,0 +1,24 @@
+{
+  "name": "mongocourse",
+  "version": "1.0.0",
+  "description": "MongoDB classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danbarretto/MongoDB-Course.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "Express",
+    "NodeJs"
+  ],
+  "author": "Daniel Sá Barretto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danbarretto/MongoDB-Course/issues"
+  },
+  "homepage": "https://github.com/danbarretto/MongoDB-Course#readme"
+}
