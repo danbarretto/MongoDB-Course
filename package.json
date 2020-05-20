@@ -4,7 +4,8 @@
   "description": "MongoDB classes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/danbarretto/MongoDB-Course/issues"
   },
-  "homepage": "https://github.com/danbarretto/MongoDB-Course#readme"
+  "homepage": "https://github.com/danbarretto/MongoDB-Course#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.15"
+  }
 }
